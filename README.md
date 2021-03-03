@@ -5,6 +5,9 @@
 - Meta Labs Minecraft Auth is the #1 and only plugin for using Meta Labs keys on your Minecraft server!
 - To learn more about what Meta Labs is, and how it can help you, check out https://metalabs.io/!
 
+## Extra
+Checkout our Spigot Page https://www.spigotmc.org/resources/meta-labs-minecraft-auth.89725/!
+
 ## Requirements
 - Meta Labs Minecraft Auth currently only supports Spigot. Other server implementations may work, but we don't recommend them as they may cause compatibility issues.
 
@@ -29,7 +32,6 @@ lists:
 API_KEY: Bearer pk_########################
 maps: {}
 ```
-
 ## Commands
 Players:
 - Auth <key> // Authorize <key> - Using either players can authorize your key!
