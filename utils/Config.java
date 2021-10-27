@@ -16,7 +16,7 @@ public class Config {
     private static YamlConfiguration config;
 
     public Config() {
-        File dir = new File("./plugins/MatalabsMinecraftAuth");
+        File dir = new File("./plugins/HyperMinecraftAuth");
         if (!dir.exists()) {
             dir.mkdir();
         }
@@ -76,7 +76,7 @@ public class Config {
             } else {
                 config.set("API_KEY", "Insert your API-Key here!");
                 config.save(file);
-                Bukkit.getLogger().warning("You need to enter your Metalabs API-Key in the config.yml");
+                Bukkit.getLogger().warning("You need to enter your Hyper API-Key in the config.yml");
             }
             ArrayList<UUID> uuids = new ArrayList<>();
             for (Object string : getArrayList("lists.authorizedplayers")) {
