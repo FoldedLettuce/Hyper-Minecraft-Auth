@@ -45,7 +45,7 @@ public class AuthorizeCommand implements CommandExecutor {
         p.sendMessage("§7Checking key " + args[0].toUpperCase() + "...");
         Bukkit.getScheduler().runTaskAsynchronously(JavaPlugin.getPlugin(Main.class), () -> {
             try {
-                URL url = new URL("https://api.metalabs.io/v4/licenses/" + args[0].toUpperCase());
+                URL url = new URL("https://api.hyper.co/v6/licenses/" + args[0].toUpperCase());
                 HttpsURLConnection con = (HttpsURLConnection) url.openConnection();
                 con.setRequestMethod("GET");
                 con.setRequestProperty("Content-Type", "application/json");
