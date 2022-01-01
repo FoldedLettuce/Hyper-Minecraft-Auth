@@ -2,7 +2,7 @@
 ![preview](https://i.imgur.com/xkqL7Mx.png)
 
 ## About Hyper Minecraft Auth
-- Hyper Minecraft Auth is the #1 and only plugin for using Meta Labs keys on your Minecraft server!
+- Hyper Minecraft Auth is the #1 and only plugin for using Hyper keys on your Minecraft server!
 - To learn more about what Hyper is, and how it can help you, check out https://hyper.co/!
 
 ## Extra
@@ -12,7 +12,7 @@ Checkout our Spigot Page https://www.spigotmc.org/resources/meta-labs-minecraft-
 - Hyper Minecraft Auth currently only supports Spigot. Other server implementations may work, but we don't recommend them as they may cause compatibility issues.
 
 ## Setup
-To setup Meta Labs Minecraft Auth on your server follow the steps below!
+To setup Hyper Minecraft Auth on your server follow the steps below!
 1. Download the jar from this page.
 2. Place the jar into the "Plugins" folder.
 3. Start your server.
@@ -42,4 +42,4 @@ Ops:
 - Bypassauth <player> - Using this command ops can make it so the user doesn't need a key to play!
 
 ## Support
-For support with the Meta Labs Minecraft Auth plugin please DM Folded Lettuce#0001 on Discord or on my twitter https://twitter.com/FoldedLettuce
+For support with the Hyper Minecraft Auth plugin please DM Folded Lettuce#0001 on Discord or on my twitter https://twitter.com/FoldedLettuce
