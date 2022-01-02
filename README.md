@@ -6,7 +6,7 @@
 - To learn more about what Hyper is, and how it can help you, check out https://hyper.co/!
 
 ## Extra
-Checkout our Spigot Page https://www.spigotmc.org/resources/meta-labs-minecraft-auth.89725/!
+Checkout our Spigot Page https://www.spigotmc.org/resources/hyper-minecraft-auth.89725/!
 
 ## Requirements
 - Hyper Minecraft Auth currently only supports Spigot. Other server implementations may work, but we don't recommend them as they may cause compatibility issues.
